@@ -2,6 +2,8 @@
 Chiedi all’utente la sua email,
 controlla che sia nella lista di chi può accedere,
 <!-- stampa un messaggio appropriato sull’esito del controllo. -->
+
+Esercizio Mail
 --creiamo un array di tot email che successivamente faremo controllare
 --Creiamo un prompt che chiederà l'email 
 --Controlliamo con un ciclo for tutto il contenuto tramite la condizione .length e successivamente se la mail inserita è uguale ad una email presente (controllato tramite l'indice del ciclo for), la variabile booleana precedentemente inserita con il valore false, diventerà true
@@ -12,7 +14,7 @@ Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
 Stabilire il vincitore, in base a chi fa il punteggio più alto.
  --> 
 
-
+Esercizio Dadi
 --creiamo un array che all'interno conterrà 6 numeri da 1 a 6
---creiamo 2 variabili randomiche una per il valore inserito dall'utente e una per il valore del computer
+--creiamo 2 variabili randomiche una per il valore inserito dall'utente e una per il valore del computer. Avranno un valore randomico moltiplicato per la lunghezza dell'array
 --successivamente faremo una condizione che valuterà che se il valore della variabile utente è maggiore a quella del computer, stamperà "Hai vinto" altrimenti stamperà "Hai perso"
